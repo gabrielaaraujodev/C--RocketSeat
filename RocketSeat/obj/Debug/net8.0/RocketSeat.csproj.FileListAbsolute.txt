@@ -1,0 +1,15 @@
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\bin\Debug\net8.0\RocketSeat.exe
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\bin\Debug\net8.0\RocketSeat.deps.json
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\bin\Debug\net8.0\RocketSeat.runtimeconfig.json
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\bin\Debug\net8.0\RocketSeat.dll
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\bin\Debug\net8.0\RocketSeat.pdb
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.AssemblyInfoInputs.cache
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.AssemblyInfo.cs
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.sourcelink.json
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.dll
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\obj\Debug\net8.0\refint\RocketSeat.dll
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.pdb
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\obj\Debug\net8.0\RocketSeat.genruntimeconfig.cache
+C:\Users\Gabriel Araujo\source\repos\RocketSeat\RocketSeat\obj\Debug\net8.0\ref\RocketSeat.dll
